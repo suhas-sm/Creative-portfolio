@@ -1,4 +1,4 @@
-# Creative Porfolio [![Template Project](https://img.shields.io/badge/Technologies%20-HTML%2FCSS-brightgreen)](http://www.gnu.org/licenses/agpl-3.0)
+# Creative Porfolio
 
 This is basically a one pager template project made in HTML/CSS with creativity for an imaginary creatve designer on the internet.
 Hope you like my project !! it works good in laptop screen and mobile.
